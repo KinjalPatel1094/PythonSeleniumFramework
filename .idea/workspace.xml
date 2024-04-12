@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3fe417a-1e91-43fc-bf6c-554843d534b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonSelenium/headless_mode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonSelenium/headless_mode.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonSelenium/headless_mode.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,50 +23,58 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2cl9Dl2cXxO9xfIla2LWT26Nz7d" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ReadWrite.executor": "Run",
-    "Python.StringDemo.executor": "Run",
-    "Python.WriteFile.executor": "Run",
-    "Python.cart_application.executor": "Run",
-    "Python.checkbox.executor": "Run",
-    "Python.childoop.executor": "Run",
-    "Python.classdemo.executor": "Run",
-    "Python.conditionstatement.executor": "Run",
-    "Python.datatypes.executor": "Run",
-    "Python.dropdown.executor": "Run",
-    "Python.exceptions.executor": "Run",
-    "Python.firstdemo.executor": "Run",
-    "Python.functiondemo.executor": "Run",
-    "Python.headless_mode.executor": "Run",
-    "Python.invokeBrowser.executor": "Run",
-    "Python.locators.executor": "Run",
-    "Python.mouse_events.executor": "Run",
-    "Python.reset_password.executor": "Run",
-    "Python.sort_tables.executor": "Run",
-    "Python.submit_form.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in test_demo1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_demo1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_demo2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_fixtureData.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_fixtureDemo.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ReadWrite.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StringDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WriteFile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.autodesk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cart_application.executor&quot;: &quot;Run&quot;,
+    &quot;Python.checkbox.executor&quot;: &quot;Run&quot;,
+    &quot;Python.childoop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classdemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditionstatement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.datatypes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dropdown.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.firstdemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functiondemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.headless_mode.executor&quot;: &quot;Run&quot;,
+    &quot;Python.invokeBrowser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.locators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mouse_events.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reset_password.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sort_tables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.submit_form.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/PythonBasics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sort_tables">
-    <configuration name="cart_application" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.autodesk">
+    <configuration name="autodesk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonSelenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonBasics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonSelenium/cart_application.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonBasics/autodesk.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="checkbox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="firstdemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonSelenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonBasics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonSelenium/checkbox.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonBasics/firstdemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,28 +140,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mouse_events" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonSelenium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonSelenium/mouse_events.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="sort_tables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -175,13 +162,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in test_demo1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pytests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Pytests/test_demo1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_fixtureData.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/usr/local/bin/python3.12" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Pytests/test_fixtureData.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.autodesk" />
+      <item itemvalue="Python.firstdemo" />
+      <item itemvalue="Python.headless_mode" />
+      <item itemvalue="Python.sort_tables" />
+      <item itemvalue="Python tests.pytest in test_fixtureData.py" />
+      <item itemvalue="Python tests.Python tests in test_demo1.py" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.autodesk" />
+        <item itemvalue="Python.firstdemo" />
+        <item itemvalue="Python tests.Python tests in test_demo1.py" />
         <item itemvalue="Python.sort_tables" />
         <item itemvalue="Python.headless_mode" />
-        <item itemvalue="Python.mouse_events" />
-        <item itemvalue="Python.cart_application" />
-        <item itemvalue="Python.checkbox" />
       </list>
     </recent_temporary>
   </component>

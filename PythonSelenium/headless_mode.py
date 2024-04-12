@@ -1,6 +1,6 @@
 from selenium import webdriver
 
-# declaring ChromeOptions class using webdriver package and craeting a object
+# declaring ChromeOptions class using webdriver package and creating a object
 # using its object, call method add_argument to pass "headless" as argument
 # add another flag to ignore certificate errors on webpage.
 chrome_options = webdriver.ChromeOptions()
