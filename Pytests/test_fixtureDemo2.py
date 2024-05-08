@@ -28,3 +28,8 @@ def test_browser_data(browser_data):
     print(browser_data)
     print(browser_data[1])
     print(browser_data[0])
+
+
+
+
+
